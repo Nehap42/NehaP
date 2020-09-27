@@ -1,0 +1,137 @@
+
+
+h1{
+   font-family:  Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+   color: rgb(0,0,0);
+   margin: 10px;
+   text-align: center;
+   padding-top: 8%;
+   font-size: 3.5rem;
+}
+.top{
+    width: auto;
+    height: 36rem;
+    background:url("bg11.png"), linear-gradient(to right, rgb(218 109 101) , #c7b6b5);
+    background-size:cover;
+    padding-bottom: 1%;
+    margin: 2%;
+}
+.top h2{
+    text-align: center;
+    color:rgb(0, 0, 0) ;
+     font-family: 'Open Sans', sans-serif;
+}
+.myphoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 50%;
+}
+.aboutme{
+     background-image:  linear-gradient(to right, rgb(189 121 167) , rgb(167 167 69));
+     color:rgb(0,0,0);
+      box-shadow: 1.5px 1.5px 6px 6px black;
+     margin: 2%;
+    
+      padding-top: 2%;
+}
+.aboutme p{
+      padding-top: 2%;
+      padding-bottom: 2%;
+      padding-left: 4.5%;
+      font-size: 1.4rem;
+      line-height:2.5rem;
+     
+}
+  .container{
+    
+    padding-top: 1%;
+     font-family: 'Open Sans', sans-serif;
+}
+  .container h3{
+    font-size:2rem;
+    text-align:center;
+    background-image:linear-gradient(to right, rgb(64 129 160) , rgb(230 230 148)); 
+    color: black
+}
+
+ .container h2{
+  padding-left: 2%;
+}
+
+.career ul{
+    padding-left: 4%;
+    font-size: 1.2rem;
+    line-height:2.7rem;
+}
+.career{
+    background-image:  linear-gradient(to right, rgb(189 121 167) , rgb(167 167 69));
+    color:rgb(0,0,0);
+    display: inline-block;
+    width:45%;
+    margin: 2%;
+    left-padding:1%;
+    box-shadow: 1.5px 1.5px 6px 6px black;
+    
+}
+ 
+.skills{
+  background-image: linear-gradient(to right, rgb(189 121 167) , rgb(167 167 69));
+  color:rgb(0,0,0);
+  display: inline-block;
+  float: right;
+  width:45%;
+  margin: 2%;
+  right-padding:1%;
+ box-shadow: 1.5px 1.5px 6px 6px black;
+
+}
+.skills p{
+   padding: 9%;
+   line-height: 3.1rem;
+   font-size: 1.5rem;
+   padding-left:5%;
+}
+.Academics{
+    background-image:linear-gradient(to right, rgb(189 121 167) , rgb(167 167 69));;
+    color:rgb(0,0,0);
+    margin:2%;
+    box-shadow: 1.5px 1.5px 6px 6px black;
+}
+.Academics p{
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.4rem;
+    padding-left: 4.5%;
+}
+.project{
+    background-image: linear-gradient(to right, rgb(189 121 167) , rgb(167 167 69));
+    color:rgb(0,0,0);
+    margin:2%;
+    box-shadow: 1.5px 1.5px 6px 6px black;
+}
+.project p{
+  padding-left: 4.5%;
+  line-height: 3rem;
+  font-size: 1.4rem;
+}
+.linkedin{
+  width:4%;
+  display:inline-block;
+  padding-left:40%;
+  float:left;
+}
+.github{
+  width:4.5%;
+  padding-right:50%;
+  display: inline-block;
+  float:right;
+}
+.end {
+   padding-left: 60%;
+
+}
+
+
+
+
